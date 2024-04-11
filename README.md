@@ -1,5 +1,5 @@
 # Portfolio
-# Unreal Engine Game
+# Unreal Engine 4.27 Game written in c++
 
 Duel dungeon is a sidescroller/rougelike  game that uses procedural animation as it's core mechanic.
 https://kiirsh.itch.io/duel-dungeon
