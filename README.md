@@ -12,6 +12,9 @@ https://kiirsh.itch.io/duel-dungeon
 This plugin includes a C++ PlayerCharacter class that contains souls inspired lock on system, camera movement and player movement. 
 https://www.unrealengine.com/marketplace/en-US/product/c-lock-on-system-plugin
 
+Link to a c++ code:
+https://gitfront.io/r/KirshDev/VK32CDF25b1Y/Lock-on-system-Unreal-Engine/
+
 ![image](https://github.com/KirshDev/Portfolio/assets/163009797/c3262b62-4217-4bee-870b-31de653f7440)
 ![image](https://github.com/KirshDev/Portfolio/assets/163009797/b6e331b8-e106-40fb-8102-a76514a6ad91)
 ![image](https://github.com/KirshDev/Portfolio/assets/163009797/6b0710a0-353c-4e2c-ac38-df92ec4ddade)
